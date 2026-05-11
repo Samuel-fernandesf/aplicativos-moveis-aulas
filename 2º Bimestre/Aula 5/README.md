@@ -66,7 +66,7 @@ Também foi aplicada renderização condicional para que o botão apareça somen
 1.  **Clone o repositório:**
     ```bash
     https://github.com/Samuel-fernandesf/aplicativos-moveis-aulas.git
-    cd 'aplicativos-moveis-aulas/2º Bimestre/Aula 5/'
+    cd 'aplicativos-moveis-aulas/2º Bimestre/Aula 5/app/'
     ```
 2.  **Instale as dependências**
     ```bash
