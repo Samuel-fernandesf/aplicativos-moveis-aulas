@@ -10,7 +10,7 @@ As atividades têm como foco o aprendizado prático de conceitos fundamentais do
 
 | Aula | Tema | Descrição |
 |------|------|------------|
-| [**Aula 5**](./Aula%205/) | Components e Props | Desenvolvimento de novos componentes reutilizáveis utilizando React Native, com foco na passagem de Strings, Números e Funções através de props. Implementação de cabeçalho customizável, contador dinâmico de objetivos e botão para limpeza da lista utilizando renderização condicional. |
+| [**Aula 5**](./Aula%205/) | Components e Props | Desenvolvimento de novos componentes reutilizáveis, com foco na passagem de Strings, Números e Funções através de props. |
 
 ---
 
