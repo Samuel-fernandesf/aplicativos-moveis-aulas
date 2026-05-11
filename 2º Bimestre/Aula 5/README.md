@@ -1,4 +1,4 @@
-# Aula 5 — Components e Props
+# Aula 5 - Components e Props
 
 Atividade prática desenvolvida na disciplina de Arquitetura e Programação para Dispositivos Móveis (ARQAPMO), utilizando React Native com Expo.
 
