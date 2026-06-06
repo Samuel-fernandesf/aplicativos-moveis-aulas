@@ -1,16 +1,17 @@
 {
   "expo": {
-    "name": "Aula5",
-    "slug": "Aula5",
+    "name": "Aula10",
+    "slug": "Aula10",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1e085a"
     },
+    "backgroundColor": "#1e085a",
     "ios": {
       "supportsTablet": true
     },
