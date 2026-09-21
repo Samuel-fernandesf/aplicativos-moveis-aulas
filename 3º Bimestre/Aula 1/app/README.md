@@ -1,20 +1,18 @@
 # Jogo de Adivinhação — exemplo da aula (3º Bimestre)
 
-Protótipo da **StartGameScreen** para explicar a arquitetura em pastas, o
+Protótipo da **StartGameScreen** para mostrar a arquitetura em pastas, o
 `PrimaryButton` customizado e a estilização multiplataforma vistos na aula.
-É o "Passo 4 · Mãos à obra" dos slides: monta o esqueleto do fluxo com o que
-a turma já sabe. A validação (1–99) e a navegação entre as três telas ficam
-para o próximo módulo.
+Monta o esqueleto do fluxo.
 
 ## Estrutura das pastas (slide "A fundação")
 
 ```
 jogo-adivinhacao/
-├── App.js                     # raiz — decide qual TELA aparece
+├── App.js                   
 ├── screens/
-│   └── StartGameScreen.js     # tela cheia (View + TextInput + botões)
+│   └── StartGameScreen.js    
 └── components/
-    └── PrimaryButton.js       # bloco reutilizável (View + Text + children)
+    └── PrimaryButton.js     
 ```
 
 `screens/` = componentes que ocupam a tela e gerenciam o macro-estado.
@@ -22,7 +20,7 @@ jogo-adivinhacao/
 
 ## Roteiro de explicação
 
-| Conceito do slide                     | Onde mostrar no código                                  |
+| Conceito                             |Código                                                   |
 |--------------------------------------|---------------------------------------------------------|
 | Separação `screens/` × `components/` | a própria estrutura de pastas                            |
 | Uma "tela" é um componente comum     | `App.js` renderizando `<StartGameScreen />`             |
