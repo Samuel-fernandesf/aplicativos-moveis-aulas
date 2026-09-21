@@ -13,7 +13,7 @@ As atividades têm como foco o desenvolvimento de um jogo de adivinhação, trab
 | [**Aula 1**](./Aula%201/) | Estrutura de projetos e componentes | Criação da estrutura inicial do jogo de adivinhação, separando `screens/` e `components/`, além da criação de um `PrimaryButton` reutilizável e aplicação de estilização multiplataforma. |
 | [**Aula 2**](./Aula%202/) | Interatividade, Pressable e estilização | Implementação de interações com `Pressable`, passagem de funções por props, estilização de botões, efeito *ripple*, estados de pressionamento e composição do background com gradiente e imagem. |
 | [**Aula 3**](./Aula%203/) | Estados, validação e motor de adivinhação | Desenvolvimento do jogo completo, incluindo entrada validada de números, navegação entre telas por estado, `SafeAreaView`, paleta centralizada, algoritmo de geração de palpites, busca binária, prevenção de palpites inconsistentes e tela de fim de jogo. |
-| **Atividade Prática** | Refinamento da interface e histórico | Personalização visual do histórico de palpites, mensagens de desempenho, hierarquia tipográfica com fontes customizadas, `FlatList` e organização cronológica das rodadas. |
+|  [**Aula 4**](./Aula%204/) | Refinamento da interface e histórico | Personalização visual do histórico de palpites, mensagens de desempenho, hierarquia tipográfica com fontes customizadas, `FlatList` e organização cronológica das rodadas. |
 
 ---
 
