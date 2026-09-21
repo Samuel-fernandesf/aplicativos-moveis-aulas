@@ -9,6 +9,7 @@
 | Pasta | Descrição |
 |-------|------------|
 | [**2º Bimestre**](./2º%20Bimestre/) | Atividades desenvolvidas durante o segundo bimestre da disciplina de Aplicativos Móveis utilizando React Native e Expo. |
+| [**3º Bimestre**](./3º%20Bimestre/) | Atividades desenvolvidas durante o terceiro bimestre da disciplina de Aplicativos Móveis utilizando React Native e Expo para a construção de um Jogo de Adivinhação. |
 
 ---
 
