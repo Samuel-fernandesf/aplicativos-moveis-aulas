@@ -20,6 +20,7 @@ export default function App() {
   const [courseGoals, setCourseGoals] = useState([]);
 
   function startAddGoalHandler() {
+    console.log('ENTROU AQUI')
     setModalIsVisible(true);
   }
 
